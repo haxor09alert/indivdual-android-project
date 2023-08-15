@@ -1,4 +1,4 @@
-# mero_discount
+# Food app
 
 A new Flutter project.
 
